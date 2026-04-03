@@ -86,4 +86,6 @@
 | Эпох | 20 |
 
 ---
+Пощупать можно:
+https://huggingface.co/spaces/DimTor/Like_Lev_Tolstoy_but_badly
 
